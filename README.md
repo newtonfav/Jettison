@@ -3,7 +3,7 @@ A Locally hosted flight booking API
 
 The Flight booking API is a REST API capable of performing all CRUD actions(Create Flight, Read Flight, Update Flight, Delete Flight).
 
-## Create Flght 
+## Create Flight 
 To create flight send POST request body in json format to 
 ```localhost:3000/api/v1/flight```
 Id is automatically generated
