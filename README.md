@@ -22,12 +22,12 @@ expected response
 ```
 
 
-#Read Flight
+## Read Flight
 To read all flight data, send GET request to ```localhost:3000/api/v1/flight```
 To read a particular flight send GET request to ``` localhost:3000/api/v1/flight/$id ```
 
-#Update Flight 
+## Update Flight 
 To update Flight send PATCH request to ```localhost:3000/api/v1/flight/$id```
 
-#Delete Flight 
+## Delete Flight 
 To delete flight, send DELETE request to ```localhost:3000/api/v1/flight/$id```
