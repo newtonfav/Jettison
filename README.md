@@ -8,6 +8,7 @@ To create flight send POST request body in json format to
 ```localhost:3000/api/v1/flight```
 Id is automatically generated
 expected response
+
 ```{
     "status": "success✈️",
     "message": "successfully created flight",
