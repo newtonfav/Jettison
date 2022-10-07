@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "title": "flight to Nigeria",
+    "time": "8am",
+    "price": 37600,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 1,
+    "title": "flight to South Korea",
+    "time": "10am",
+    "price": 33600,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 2,
+    "title": "flight to Hong Kong",
+    "time": "1am",
+    "price": 37000,
+    "date": "17-04-2022"
+  },
+  {
+    "id": 3,
+    "title": "flight to Spain",
+    "time": "5pm",
+    "price": 21600,
+    "date": "17-04-2022"
+  },
+  {
+    "id": 4,
+    "title": "flight to Portugal",
+    "time": "8am",
+    "price": 20000,
+    "date": "07-02-2022"
+  }
+]
