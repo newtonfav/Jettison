@@ -1,4 +1,4 @@
-# Booking_flight-API
+# Jettison
 A Locally hosted flight booking API
 
 The Flight booking API is a REST API capable of performing all CRUD actions(Create Flight, Read Flight, Update Flight, Delete Flight).
